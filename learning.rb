@@ -1,5 +1,5 @@
 # Primeiro teste programando em Ruby. Me foi pedido para adicionar um sistema de "perguntas e respostas", onde o usuário coloca seu nome e idade, além de verificar se ele é maior ou menor de idade,
-# juntamente também com um sistema de verificação de números impares e pares.
+# juntamente também com um sistema de verificação de números impares e pares. Estou iniciando pela lógica para conhecer a linguagem!
 
 puts "Olá, qual é o seu nome? \n"
 nome = gets.chomp
@@ -61,3 +61,4 @@ else
   puts "Ok, muito obrigado!"
 
 end 
+
